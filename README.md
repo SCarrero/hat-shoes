@@ -2,6 +2,8 @@
 
 Includes only the css, js (including jQuery and Foundation accordions) and html needed for these components.
 
+Aug 18, 2025 Updated links. No change to css/js.
+
 Nov 25, 2024 Updated links and Twitter/X logo. No change to css/js.
 
 Mar 19, 2024: Updated copyright year. No change to css/js.
